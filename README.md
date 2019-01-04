@@ -1,2 +1,2 @@
 # SitecoreAzurePAAS
-Projects that i am working for Sitecore on Azure
+Useful content for Sitecore environments deployed on Azure
